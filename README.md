@@ -1,7 +1,7 @@
 # Steam Spam Bot (SSB)
 
 ## How to download?
-Press download as zip.
+Press here.
 
 ## Big thanks to:
 * SnaBe
