@@ -1,9 +1,9 @@
-# SteaSpam-Bot
+# Steam Spam Bot (SSB)
 
-##How to download?
-Press download as zip
+## How to download?
+Press download as zip.
 
-##Big thanks to:
+## Big thanks to:
 * SnaBe
 * [SteamCommunity](https://github.com/DoctorMcKay/node-steamcommunity)
 * [SteamUser](https://github.com/DoctorMcKay/node-steam-user)
